@@ -7,9 +7,9 @@
 		<meta property="fb:app_id" content="1321688464574422" />
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta name="twitter:site" content="@huggingface" />
-		<meta property="og:title" content="README.md · maharshipandya/spotify-tracks-dataset at main" />
+		<meta property="og:title" content="dataset.csv · maharshipandya/spotify-tracks-dataset at main" />
 		<meta property="og:type" content="website" />
-		<meta property="og:url" content="https://huggingface.co/datasets/maharshipandya/spotify-tracks-dataset/blob/main/README.md" />
+		<meta property="og:url" content="https://huggingface.co/datasets/maharshipandya/spotify-tracks-dataset/blob/main/dataset.csv" />
 		<meta property="og:image" content="https://cdn-thumbnails.huggingface.co/social-thumbnails/datasets/maharshipandya/spotify-tracks-dataset.png" />
 
 		<link rel="stylesheet" href="/front/build/kube-520a7ce/style.css" />
@@ -34,9 +34,9 @@
 			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/katex.min.css" />
 		</noscript>
 
-		<link rel="canonical" href="https://huggingface.co/datasets/maharshipandya/spotify-tracks-dataset/blob/main/README.md">  
+		<link rel="canonical" href="https://huggingface.co/datasets/maharshipandya/spotify-tracks-dataset/blob/main/dataset.csv">  
 
-		<title>README.md · maharshipandya/spotify-tracks-dataset at main</title>
+		<title>dataset.csv · maharshipandya/spotify-tracks-dataset at main</title>
 
 		<script
 			defer
@@ -208,7 +208,7 @@
 	</div>
 			</div></div></header></div>
 	
-<div class="container relative flex flex-col md:grid md:space-y-0 w-full md:grid-cols-12  space-y-4 md:gap-6 mb-16"><section class="pt-8 border-gray-100 col-span-full"><header class="flex flex-wrap items-center justify-start pb-2 md:justify-end lg:flex-nowrap"><div class="relative mr-4 flex min-w-0 basis-auto flex-wrap items-center md:flex-grow md:basis-full lg:basis-auto lg:flex-nowrap"><div class="SVELTE_HYDRATER contents" data-target="BranchSelector" data-props="{&quot;path&quot;:&quot;README.md&quot;,&quot;repoName&quot;:&quot;maharshipandya/spotify-tracks-dataset&quot;,&quot;repoType&quot;:&quot;dataset&quot;,&quot;rev&quot;:&quot;main&quot;,&quot;refs&quot;:{&quot;branches&quot;:[{&quot;name&quot;:&quot;main&quot;,&quot;ref&quot;:&quot;refs/heads/main&quot;,&quot;targetCommit&quot;:&quot;635b034f69257814eff850a5c2b3346fe458134f&quot;}],&quot;tags&quot;:[],&quot;converts&quot;:[{&quot;name&quot;:&quot;parquet&quot;,&quot;ref&quot;:&quot;refs/convert/parquet&quot;,&quot;targetCommit&quot;:&quot;6c98f532408a771e0d008e6c0ead5a09a35dd542&quot;},{&quot;name&quot;:&quot;duckdb&quot;,&quot;ref&quot;:&quot;refs/convert/duckdb&quot;,&quot;targetCommit&quot;:&quot;933250bd88e64e4af0b1706c5f094814f22abdfc&quot;}]},&quot;view&quot;:&quot;blob&quot;}"><div class="relative mr-4 mb-2">
+<div class="container relative flex flex-col md:grid md:space-y-0 w-full md:grid-cols-12  space-y-4 md:gap-6 mb-16"><section class="pt-8 border-gray-100 col-span-full"><header class="flex flex-wrap items-center justify-start pb-2 md:justify-end lg:flex-nowrap"><div class="relative mr-4 flex min-w-0 basis-auto flex-wrap items-center md:flex-grow md:basis-full lg:basis-auto lg:flex-nowrap"><div class="SVELTE_HYDRATER contents" data-target="BranchSelector" data-props="{&quot;path&quot;:&quot;dataset.csv&quot;,&quot;repoName&quot;:&quot;maharshipandya/spotify-tracks-dataset&quot;,&quot;repoType&quot;:&quot;dataset&quot;,&quot;rev&quot;:&quot;main&quot;,&quot;refs&quot;:{&quot;branches&quot;:[{&quot;name&quot;:&quot;main&quot;,&quot;ref&quot;:&quot;refs/heads/main&quot;,&quot;targetCommit&quot;:&quot;635b034f69257814eff850a5c2b3346fe458134f&quot;}],&quot;tags&quot;:[],&quot;converts&quot;:[{&quot;name&quot;:&quot;parquet&quot;,&quot;ref&quot;:&quot;refs/convert/parquet&quot;,&quot;targetCommit&quot;:&quot;6c98f532408a771e0d008e6c0ead5a09a35dd542&quot;},{&quot;name&quot;:&quot;duckdb&quot;,&quot;ref&quot;:&quot;refs/convert/duckdb&quot;,&quot;targetCommit&quot;:&quot;933250bd88e64e4af0b1706c5f094814f22abdfc&quot;}]},&quot;view&quot;:&quot;blob&quot;}"><div class="relative mr-4 mb-2">
 	<button class="text-sm md:text-base btn w-full cursor-pointer text-sm" type="button">
 		<svg class="mr-1.5 text-gray-700 dark:text-gray-400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" style="transform: rotate(360deg);"><path d="M13 14c-3.36 0-4.46 1.35-4.82 2.24C9.25 16.7 10 17.76 10 19a3 3 0 0 1-3 3a3 3 0 0 1-3-3c0-1.31.83-2.42 2-2.83V7.83A2.99 2.99 0 0 1 4 5a3 3 0 0 1 3-3a3 3 0 0 1 3 3c0 1.31-.83 2.42-2 2.83v5.29c.88-.65 2.16-1.12 4-1.12c2.67 0 3.56-1.34 3.85-2.23A3.006 3.006 0 0 1 14 7a3 3 0 0 1 3-3a3 3 0 0 1 3 3c0 1.34-.88 2.5-2.09 2.86C17.65 11.29 16.68 14 13 14m-6 4a1 1 0 0 0-1 1a1 1 0 0 0 1 1a1 1 0 0 0 1-1a1 1 0 0 0-1-1M7 4a1 1 0 0 0-1 1a1 1 0 0 0 1 1a1 1 0 0 0 1-1a1 1 0 0 0-1-1m10 2a1 1 0 0 0-1 1a1 1 0 0 0 1 1a1 1 0 0 0 1-1a1 1 0 0 0-1-1z" fill="currentColor"></path></svg>
 			main
@@ -218,34 +218,31 @@
 	</div></div>
 		<div class="relative mb-2 flex flex-wrap items-center"><a class="truncate text-gray-800 hover:underline" href="/datasets/maharshipandya/spotify-tracks-dataset/tree/main">spotify-tracks-dataset</a>
 			<span class="mx-1 text-gray-300">/</span>
-				<span class="dark:text-gray-300">README.md</span>
-				<div class="SVELTE_HYDRATER contents" data-target="CopyButton" data-props="{&quot;value&quot;:&quot;README.md&quot;,&quot;classNames&quot;:&quot;text-xs ml-2&quot;,&quot;title&quot;:&quot;Copy path&quot;}"><button class="relative text-xs ml-2 inline-flex cursor-pointer items-center text-sm focus:outline-none  mx-0.5   text-gray-600 " title="Copy path" type="button"><svg class="" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" fill="currentColor" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path d="M28,10V28H10V10H28m0-2H10a2,2,0,0,0-2,2V28a2,2,0,0,0,2,2H28a2,2,0,0,0,2-2V10a2,2,0,0,0-2-2Z" transform="translate(0)"></path><path d="M4,18H2V4A2,2,0,0,1,4,2H18V4H4Z" transform="translate(0)"></path><rect fill="none" width="32" height="32"></rect></svg>
+				<span class="dark:text-gray-300">dataset.csv</span>
+				<div class="SVELTE_HYDRATER contents" data-target="CopyButton" data-props="{&quot;value&quot;:&quot;dataset.csv&quot;,&quot;classNames&quot;:&quot;text-xs ml-2&quot;,&quot;title&quot;:&quot;Copy path&quot;}"><button class="relative text-xs ml-2 inline-flex cursor-pointer items-center text-sm focus:outline-none  mx-0.5   text-gray-600 " title="Copy path" type="button"><svg class="" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" fill="currentColor" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path d="M28,10V28H10V10H28m0-2H10a2,2,0,0,0-2,2V28a2,2,0,0,0,2,2H28a2,2,0,0,0,2-2V10a2,2,0,0,0-2-2Z" transform="translate(0)"></path><path d="M4,18H2V4A2,2,0,0,1,4,2H18V4H4Z" transform="translate(0)"></path><rect fill="none" width="32" height="32"></rect></svg>
 	
 	</button></div></div></div>
 
 	
 	</header>
-			<div class="SVELTE_HYDRATER contents" data-target="LastCommit" data-props="{&quot;commitLast&quot;:{&quot;date&quot;:&quot;2023-12-01T13:29:39.000Z&quot;,&quot;subject&quot;:&quot;Update task categories (#1)&quot;,&quot;authors&quot;:[{&quot;_id&quot;:&quot;641f2a37eefe94aff6e0551d&quot;,&quot;avatar&quot;:&quot;https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/641f2a37eefe94aff6e0551d/BNq4SfDaeNtgcDjfUBUIZ.jpeg?w=200&amp;h=200&amp;f=face&quot;,&quot;isHf&quot;:false,&quot;user&quot;:&quot;maharshipandya&quot;}],&quot;commit&quot;:{&quot;id&quot;:&quot;635b034f69257814eff850a5c2b3346fe458134f&quot;,&quot;parentIds&quot;:[&quot;74c06031718aafcd9d96bf2cd770249d88e0c238&quot;]},&quot;title&quot;:&quot;Update task categories (<a href=\&quot;/datasets/maharshipandya/spotify-tracks-dataset/discussions/1\&quot;>#1</a>)&quot;},&quot;repo&quot;:{&quot;name&quot;:&quot;maharshipandya/spotify-tracks-dataset&quot;,&quot;type&quot;:&quot;dataset&quot;}}"><div class="from-gray-100-to-white flex items-baseline rounded-t-lg border border-b-0 bg-gradient-to-t px-3 py-2 dark:border-gray-800"><img class="mr-2.5 mt-0.5 h-4 w-4 self-center rounded-full" alt="maharshipandya's picture" src="https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/641f2a37eefe94aff6e0551d/BNq4SfDaeNtgcDjfUBUIZ.jpeg?w=200&amp;h=200&amp;f=face">
-			<div class="mr-5 flex flex-none items-center truncate"><a class="hover:underline" href="/maharshipandya">maharshipandya
-					</a>
+			<div class="SVELTE_HYDRATER contents" data-target="LastCommit" data-props="{&quot;commitLast&quot;:{&quot;date&quot;:&quot;2023-06-14T11:48:21.000Z&quot;,&quot;subject&quot;:&quot;Upload dataset.csv&quot;,&quot;authors&quot;:[{&quot;user&quot;:&quot;sedlyf&quot;}],&quot;commit&quot;:{&quot;id&quot;:&quot;c4609440b24ac4075899f6e60b33775acbe00827&quot;,&quot;parentIds&quot;:[&quot;8ea780d5df64e9376f2b2df5987051eea84ff548&quot;]},&quot;title&quot;:&quot;Upload dataset.csv&quot;},&quot;repo&quot;:{&quot;name&quot;:&quot;maharshipandya/spotify-tracks-dataset&quot;,&quot;type&quot;:&quot;dataset&quot;}}"><div class="from-gray-100-to-white flex items-baseline rounded-t-lg border border-b-0 bg-gradient-to-t px-3 py-2 dark:border-gray-800">
+			<div class="mr-5 flex flex-none items-center truncate">sedlyf
 				
 			</div>
-		<div class="mr-4 truncate font-mono text-sm text-gray-500 hover:prose-a:underline"><!-- HTML_TAG_START -->Update task categories (<a href="/datasets/maharshipandya/spotify-tracks-dataset/discussions/1">#1</a>)<!-- HTML_TAG_END --></div>
-		<a class="rounded border bg-gray-50 px-1.5 text-sm hover:underline dark:border-gray-800 dark:bg-gray-900" href="/datasets/maharshipandya/spotify-tracks-dataset/commit/635b034f69257814eff850a5c2b3346fe458134f">635b034</a>
+		<div class="mr-4 truncate font-mono text-sm text-gray-500 hover:prose-a:underline"><!-- HTML_TAG_START -->Upload dataset.csv<!-- HTML_TAG_END --></div>
+		<a class="rounded border bg-gray-50 px-1.5 text-sm hover:underline dark:border-gray-800 dark:bg-gray-900" href="/datasets/maharshipandya/spotify-tracks-dataset/commit/c4609440b24ac4075899f6e60b33775acbe00827">c460944</a>
 		
-		<time class="ml-auto hidden flex-none truncate pl-2 text-gray-500 dark:text-gray-400 lg:block" datetime="2023-12-01T13:29:39" title="Fri, 01 Dec 2023 13:29:39 GMT">5 months ago</time></div></div>
-			<div class="flex flex-wrap items-center border px-3 py-1.5 text-sm text-gray-800 dark:border-gray-800 dark:bg-gray-900"><div class="flex items-center gap-3 text-sm font-medium"><a class="rounded-md px-1.5 capitalize bg-gray-200 dark:bg-gray-800" href="/datasets/maharshipandya/spotify-tracks-dataset/blob/main/README.md">preview</a>
-						<a class="rounded-md px-1.5 capitalize " href="/datasets/maharshipandya/spotify-tracks-dataset/blob/main/README.md?code=true">code</a></div>
-					<div class="mx-4 text-gray-200">|</div>
-				<a class="my-1 mr-4 flex items-center hover:underline " href="/datasets/maharshipandya/spotify-tracks-dataset/raw/main/README.md"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32" style="transform: rotate(360deg);"><path d="M31 16l-7 7l-1.41-1.41L28.17 16l-5.58-5.59L24 9l7 7z" fill="currentColor"></path><path d="M1 16l7-7l1.41 1.41L3.83 16l5.58 5.59L8 23l-7-7z" fill="currentColor"></path><path d="M12.419 25.484L17.639 6l1.932.518L14.35 26z" fill="currentColor"></path></svg>
-							raw
-						</a><a class="my-1 mr-4 flex items-center hover:underline " href="/datasets/maharshipandya/spotify-tracks-dataset/commits/main/README.md"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32" style="transform: rotate(360deg);"><path d="M16 4C9.383 4 4 9.383 4 16s5.383 12 12 12s12-5.383 12-12S22.617 4 16 4zm0 2c5.535 0 10 4.465 10 10s-4.465 10-10 10S6 21.535 6 16S10.465 6 16 6zm-1 2v9h7v-2h-5V8z" fill="currentColor"></path></svg>
+		<time class="ml-auto hidden flex-none truncate pl-2 text-gray-500 dark:text-gray-400 lg:block" datetime="2023-06-14T11:48:21" title="Wed, 14 Jun 2023 11:48:21 GMT">10 months ago</time></div></div>
+			<div class="flex flex-wrap items-center border px-3 py-1.5 text-sm text-gray-800 dark:border-gray-800 dark:bg-gray-900">
+				<a class="my-1 mr-4 flex items-center hover:underline " download="" href="/datasets/maharshipandya/spotify-tracks-dataset/resolve/main/dataset.csv?download=true"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" viewBox="0 0 32 32"><path fill="currentColor" d="M26 24v4H6v-4H4v4a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2v-4zm0-10l-1.41-1.41L17 20.17V2h-2v18.17l-7.59-7.58L6 14l10 10l10-10z"></path></svg>
+							download
+						</a><a class="my-1 mr-4 flex items-center hover:underline " href="/datasets/maharshipandya/spotify-tracks-dataset/commits/main/dataset.csv"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32" style="transform: rotate(360deg);"><path d="M16 4C9.383 4 4 9.383 4 16s5.383 12 12 12s12-5.383 12-12S22.617 4 16 4zm0 2c5.535 0 10 4.465 10 10s-4.465 10-10 10S6 21.535 6 16S10.465 6 16 6zm-1 2v9h7v-2h-5V8z" fill="currentColor"></path></svg>
 							history
-						</a><a class="my-1 mr-4 flex items-center hover:underline " href="/datasets/maharshipandya/spotify-tracks-dataset/blame/main/README.md"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32" style="transform: rotate(360deg);"><path d="M16 2a14 14 0 1 0 14 14A14 14 0 0 0 16 2zm0 26a12 12 0 1 1 12-12a12 12 0 0 1-12 12z" fill="currentColor"></path><path d="M11.5 11a2.5 2.5 0 1 0 2.5 2.5a2.48 2.48 0 0 0-2.5-2.5z" fill="currentColor"></path><path d="M20.5 11a2.5 2.5 0 1 0 2.5 2.5a2.48 2.48 0 0 0-2.5-2.5z" fill="currentColor"></path></svg>
+						</a><a class="my-1 mr-4 flex items-center hover:underline " href="/datasets/maharshipandya/spotify-tracks-dataset/blame/main/dataset.csv"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32" style="transform: rotate(360deg);"><path d="M16 2a14 14 0 1 0 14 14A14 14 0 0 0 16 2zm0 26a12 12 0 1 1 12-12a12 12 0 0 1-12 12z" fill="currentColor"></path><path d="M11.5 11a2.5 2.5 0 1 0 2.5 2.5a2.48 2.48 0 0 0-2.5-2.5z" fill="currentColor"></path><path d="M20.5 11a2.5 2.5 0 1 0 2.5 2.5a2.48 2.48 0 0 0-2.5-2.5z" fill="currentColor"></path></svg>
 							blame
-						</a><a class="my-1 mr-4 flex items-center hover:underline text-green-600 dark:text-gray-300" href="/datasets/maharshipandya/spotify-tracks-dataset/edit/main/README.md"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path d="M2 26h28v2H2z" fill="currentColor"></path><path d="M25.4 9c.8-.8.8-2 0-2.8l-3.6-3.6c-.8-.8-2-.8-2.8 0l-15 15V24h6.4l15-15zm-5-5L24 7.6l-3 3L17.4 7l3-3zM6 22v-3.6l10-10l3.6 3.6l-10 10H6z" fill="currentColor"></path></svg>
+						</a><a class="my-1 mr-4 flex items-center hover:underline text-green-600 dark:text-gray-300" href="/datasets/maharshipandya/spotify-tracks-dataset/edit/main/dataset.csv"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path d="M2 26h28v2H2z" fill="currentColor"></path><path d="M25.4 9c.8-.8.8-2 0-2.8l-3.6-3.6c-.8-.8-2-.8-2.8 0l-15 15V24h6.4l15-15zm-5-5L24 7.6l-3 3L17.4 7l3-3zM6 22v-3.6l10-10l3.6 3.6l-10 10H6z" fill="currentColor"></path></svg>
 							contribute
-						</a><a class="my-1 mr-4 flex items-center hover:underline " href="/datasets/maharshipandya/spotify-tracks-dataset/delete/main/README.md"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path d="M12 12h2v12h-2z" fill="currentColor"></path><path d="M18 12h2v12h-2z" fill="currentColor"></path><path d="M4 6v2h2v20a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8h2V6zm4 22V8h16v20z" fill="currentColor"></path><path d="M12 2h8v2h-8z" fill="currentColor"></path></svg>
+						</a><a class="my-1 mr-4 flex items-center hover:underline " href="/datasets/maharshipandya/spotify-tracks-dataset/delete/main/dataset.csv"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path d="M12 12h2v12h-2z" fill="currentColor"></path><path d="M18 12h2v12h-2z" fill="currentColor"></path><path d="M4 6v2h2v20a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8h2V6zm4 22V8h16v20z" fill="currentColor"></path><path d="M12 2h8v2h-8z" fill="currentColor"></path></svg>
 							delete
 						</a>
 				<div class="mr-4 flex items-center text-gray-400"><svg class="text-gray-300 text-sm mr-1.5 -translate-y-px" width="1em" height="1em" viewBox="0 0 22 28" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M15.3634 10.3639C15.8486 10.8491 15.8486 11.6357 15.3634 12.1209L10.9292 16.5551C10.6058 16.8785 10.0814 16.8785 9.7579 16.5551L7.03051 13.8277C6.54532 13.3425 6.54532 12.5558 7.03051 12.0707C7.51569 11.5855 8.30234 11.5855 8.78752 12.0707L9.7579 13.041C10.0814 13.3645 10.6058 13.3645 10.9292 13.041L13.6064 10.3639C14.0916 9.8787 14.8782 9.8787 15.3634 10.3639Z" fill="currentColor"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6666 27.12C4.93329 25.28 0 19.2267 0 12.7867V6.52001C0 5.40001 0.693334 4.41334 1.73333 4.01334L9.73333 1.01334C10.3333 0.786673 11 0.786673 11.6 1.02667L19.6 4.02667C20.1083 4.21658 20.5465 4.55701 20.8562 5.00252C21.1659 5.44803 21.3324 5.97742 21.3333 6.52001V12.7867C21.3333 19.24 16.4 25.28 10.6666 27.12Z" fill="currentColor" fill-opacity="0.22"></path><path d="M10.0845 1.94967L10.0867 1.94881C10.4587 1.8083 10.8666 1.81036 11.2286 1.95515L11.2387 1.95919L11.2489 1.963L19.2489 4.963L19.25 4.96342C19.5677 5.08211 19.8416 5.29488 20.0351 5.57333C20.2285 5.85151 20.3326 6.18203 20.3333 6.52082C20.3333 6.52113 20.3333 6.52144 20.3333 6.52176L20.3333 12.7867C20.3333 18.6535 15.8922 24.2319 10.6666 26.0652C5.44153 24.2316 1 18.6409 1 12.7867V6.52001C1 5.82357 1.42893 5.20343 2.08883 4.94803L10.0845 1.94967Z" stroke="currentColor" stroke-opacity="0.30" stroke-width="2"></path></svg>
@@ -253,88 +250,29 @@
 							No virus
 						</div>
 				
-				<div class="dark:text-gray-300 sm:ml-auto">4.68 kB</div></div>
+				<div class="dark:text-gray-300 sm:ml-auto">20.1 MB</div></div>
 
 			<div class="relative min-h-[100px] rounded-b-lg border border-t-0 leading-tight dark:border-gray-800 dark:bg-gray-925">
-				<div class="py-4 px-4 sm:px-6 prose hf-sanitized hf-sanitized-dJA6nDizV5V1qd_yZvp7y"><div class="not-prose -mx-6 -mt-4 mb-8 max-h-[300px] min-w-full overflow-auto border-b bg-gradient-to-t from-gray-50 px-6 pb-5 pt-4 font-mono text-xs transition-all dark:from-gray-900 dark:to-gray-950"><div class="mb-2 inline-block rounded-lg border px-2 py-1 font-mono text-xs leading-none">metadata</div>
-			<pre><!-- HTML_TAG_START --><span class="hljs-attr">license:</span> <span class="hljs-string">bsd</span>
-<span class="hljs-attr">task_categories:</span>
-  <span class="hljs-bullet">-</span> <span class="hljs-string">feature-extraction</span>
-  <span class="hljs-bullet">-</span> <span class="hljs-string">tabular-classification</span>
-  <span class="hljs-bullet">-</span> <span class="hljs-string">tabular-regression</span>
-<span class="hljs-attr">language:</span>
-  <span class="hljs-bullet">-</span> <span class="hljs-string">en</span>
-<span class="hljs-attr">tags:</span>
-  <span class="hljs-bullet">-</span> <span class="hljs-string">music</span>
-  <span class="hljs-bullet">-</span> <span class="hljs-string">art</span>
-<span class="hljs-attr">pretty_name:</span> <span class="hljs-string">Spotify</span> <span class="hljs-string">Tracks</span> <span class="hljs-string">Dataset</span>
-<span class="hljs-attr">size_categories:</span>
-  <span class="hljs-bullet">-</span> <span class="hljs-string">100K&lt;n&lt;1M</span>
-<!-- HTML_TAG_END --></pre></div>
-	<!-- HTML_TAG_START --><h1 class="relative group flex items-center">
-	<a rel="nofollow" href="#content" class="block pr-1.5 text-lg md:absolute md:p-1.5 md:opacity-0 md:group-hover:opacity-100 md:right-full" id="content">
-		<span class="header-link"><svg viewBox="0 0 256 256" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" role="img" aria-hidden="true" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="text-gray-500 hover:text-black dark:hover:text-gray-200 w-4"><path fill="currentColor" d="M167.594 88.393a8.001 8.001 0 0 1 0 11.314l-67.882 67.882a8 8 0 1 1-11.314-11.315l67.882-67.881a8.003 8.003 0 0 1 11.314 0zm-28.287 84.86l-28.284 28.284a40 40 0 0 1-56.567-56.567l28.284-28.284a8 8 0 0 0-11.315-11.315l-28.284 28.284a56 56 0 0 0 79.196 79.197l28.285-28.285a8 8 0 1 0-11.315-11.314zM212.852 43.14a56.002 56.002 0 0 0-79.196 0l-28.284 28.284a8 8 0 1 0 11.314 11.314l28.284-28.284a40 40 0 0 1 56.568 56.567l-28.285 28.285a8 8 0 0 0 11.315 11.314l28.284-28.284a56.065 56.065 0 0 0 0-79.196z"></path></svg></span>
-	</a>
-	<span>
-		Content
-	</span>
-</h1>
-<p>This is a dataset of Spotify tracks over a range of <strong>125</strong> different genres. Each track has some audio features associated with it. The data is in <code>CSV</code> format which is tabular and can be loaded quickly.</p>
-<h1 class="relative group flex items-center">
-	<a rel="nofollow" href="#usage" class="block pr-1.5 text-lg md:absolute md:p-1.5 md:opacity-0 md:group-hover:opacity-100 md:right-full" id="usage">
-		<span class="header-link"><svg viewBox="0 0 256 256" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" role="img" aria-hidden="true" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="text-gray-500 hover:text-black dark:hover:text-gray-200 w-4"><path fill="currentColor" d="M167.594 88.393a8.001 8.001 0 0 1 0 11.314l-67.882 67.882a8 8 0 1 1-11.314-11.315l67.882-67.881a8.003 8.003 0 0 1 11.314 0zm-28.287 84.86l-28.284 28.284a40 40 0 0 1-56.567-56.567l28.284-28.284a8 8 0 0 0-11.315-11.315l-28.284 28.284a56 56 0 0 0 79.196 79.197l28.285-28.285a8 8 0 1 0-11.315-11.314zM212.852 43.14a56.002 56.002 0 0 0-79.196 0l-28.284 28.284a8 8 0 1 0 11.314 11.314l28.284-28.284a40 40 0 0 1 56.568 56.567l-28.285 28.285a8 8 0 0 0 11.315 11.314l28.284-28.284a56.065 56.065 0 0 0 0-79.196z"></path></svg></span>
-	</a>
-	<span>
-		Usage
-	</span>
-</h1>
-<p>The dataset can be used for:</p>
-<ul>
-<li>Building a <strong>Recommendation System</strong> based on some user input or preference</li>
-<li><strong>Classification</strong> purposes based on audio features and available genres</li>
-<li>Any other application that you can think of. Feel free to discuss!</li>
-</ul>
-<h1 class="relative group flex items-center">
-	<a rel="nofollow" href="#column-description" class="block pr-1.5 text-lg md:absolute md:p-1.5 md:opacity-0 md:group-hover:opacity-100 md:right-full" id="column-description">
-		<span class="header-link"><svg viewBox="0 0 256 256" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" role="img" aria-hidden="true" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="text-gray-500 hover:text-black dark:hover:text-gray-200 w-4"><path fill="currentColor" d="M167.594 88.393a8.001 8.001 0 0 1 0 11.314l-67.882 67.882a8 8 0 1 1-11.314-11.315l67.882-67.881a8.003 8.003 0 0 1 11.314 0zm-28.287 84.86l-28.284 28.284a40 40 0 0 1-56.567-56.567l28.284-28.284a8 8 0 0 0-11.315-11.315l-28.284 28.284a56 56 0 0 0 79.196 79.197l28.285-28.285a8 8 0 1 0-11.315-11.314zM212.852 43.14a56.002 56.002 0 0 0-79.196 0l-28.284 28.284a8 8 0 1 0 11.314 11.314l28.284-28.284a40 40 0 0 1 56.568 56.567l-28.285 28.285a8 8 0 0 0 11.315 11.314l28.284-28.284a56.065 56.065 0 0 0 0-79.196z"></path></svg></span>
-	</a>
-	<span>
-		Column Description
-	</span>
-</h1>
-<ul>
-<li><strong>track_id</strong>: The Spotify ID for the track</li>
-<li><strong>artists</strong>: The artists' names who performed the track. If there is more than one artist, they are separated by a <code>;</code></li>
-<li><strong>album_name</strong>: The album name in which the track appears</li>
-<li><strong>track_name</strong>: Name of the track</li>
-<li><strong>popularity</strong>: <strong>The popularity of a track is a value between 0 and 100, with 100 being the most popular</strong>. The popularity is calculated by algorithm and is based, in the most part, on the total number of plays the track has had and how recent those plays are. Generally speaking, songs that are being played a lot now will have a higher popularity than songs that were played a lot in the past. Duplicate tracks (e.g. the same track from a single and an album) are rated independently. Artist and album popularity is derived mathematically from track popularity.</li>
-<li><strong>duration_ms</strong>: The track length in milliseconds</li>
-<li><strong>explicit</strong>: Whether or not the track has explicit lyrics (true = yes it does; false = no it does not OR unknown)</li>
-<li><strong>danceability</strong>: Danceability describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable</li>
-<li><strong>energy</strong>: Energy is a measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy. For example, death metal has high energy, while a Bach prelude scores low on the scale</li>
-<li><strong>key</strong>: The key the track is in. Integers map to pitches using standard Pitch Class notation. E.g. <code>0 = C</code>, <code>1 = C♯/D♭</code>, <code>2 = D</code>, and so on. If no key was detected, the value is -1</li>
-<li><strong>loudness</strong>: The overall loudness of a track in decibels (dB)</li>
-<li><strong>mode</strong>: Mode indicates the modality (major or minor) of a track, the type of scale from which its melodic content is derived. Major is represented by 1 and minor is 0</li>
-<li><strong>speechiness</strong>: Speechiness detects the presence of spoken words in a track. The more exclusively speech-like the recording (e.g. talk show, audio book, poetry), the closer to 1.0 the attribute value. Values above 0.66 describe tracks that are probably made entirely of spoken words. Values between 0.33 and 0.66 describe tracks that may contain both music and speech, either in sections or layered, including such cases as rap music. Values below 0.33 most likely represent music and other non-speech-like tracks</li>
-<li><strong>acousticness</strong>: A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic</li>
-<li><strong>instrumentalness</strong>: Predicts whether a track contains no vocals. "Ooh" and "aah" sounds are treated as instrumental in this context. Rap or spoken word tracks are clearly "vocal". The closer the instrumentalness value is to 1.0, the greater likelihood the track contains no vocal content</li>
-<li><strong>liveness</strong>: Detects the presence of an audience in the recording. Higher liveness values represent an increased probability that the track was performed live. A value above 0.8 provides strong likelihood that the track is live</li>
-<li><strong>valence</strong>: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry)</li>
-<li><strong>tempo</strong>: The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration</li>
-<li><strong>time_signature</strong>: An estimated time signature. The time signature (meter) is a notational convention to specify how many beats are in each bar (or measure). The time signature ranges from 3 to 7 indicating time signatures of <code>3/4</code>, to <code>7/4</code>.</li>
-<li><strong>track_genre</strong>: The genre in which the track belongs</li>
-</ul>
-<h1 class="relative group flex items-center">
-	<a rel="nofollow" href="#sources-and-methodology" class="block pr-1.5 text-lg md:absolute md:p-1.5 md:opacity-0 md:group-hover:opacity-100 md:right-full" id="sources-and-methodology">
-		<span class="header-link"><svg viewBox="0 0 256 256" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" role="img" aria-hidden="true" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="text-gray-500 hover:text-black dark:hover:text-gray-200 w-4"><path fill="currentColor" d="M167.594 88.393a8.001 8.001 0 0 1 0 11.314l-67.882 67.882a8 8 0 1 1-11.314-11.315l67.882-67.881a8.003 8.003 0 0 1 11.314 0zm-28.287 84.86l-28.284 28.284a40 40 0 0 1-56.567-56.567l28.284-28.284a8 8 0 0 0-11.315-11.315l-28.284 28.284a56 56 0 0 0 79.196 79.197l28.285-28.285a8 8 0 1 0-11.315-11.314zM212.852 43.14a56.002 56.002 0 0 0-79.196 0l-28.284 28.284a8 8 0 1 0 11.314 11.314l28.284-28.284a40 40 0 0 1 56.568 56.567l-28.285 28.285a8 8 0 0 0 11.315 11.314l28.284-28.284a56.065 56.065 0 0 0 0-79.196z"></path></svg></span>
-	</a>
-	<span>
-		Sources and Methodology
-	</span>
-</h1>
-<p>The data was collected and cleaned using Spotify's Web API and Python.</p>
-<!-- HTML_TAG_END --></div>
-</div></section></div></main>
+				<div class="p-4 py-8 text-center">This file is stored with
+							<a class="underline" href="https://git-lfs.github.com/">Git LFS</a>
+							. It is too big to display, but you can still
+							<a download class="underline" href="/datasets/maharshipandya/spotify-tracks-dataset/resolve/main/dataset.csv">download</a>
+							it.
+						</div>
+					<div class="border-t p-4"><h3 class="mb-2 font-semibold leading-relaxed">Git LFS Details</h3>
+						<ul class="break-words font-mono text-sm"><li><strong>SHA256:</strong>
+								b202fa49909b2d5cef71a04b1d21243cfeb36414535f2ca9272aa646721177bd</li>
+							<li><strong>Pointer size:</strong>
+								133 Bytes</li>
+							<li><strong>Size of remote file:</strong>
+								20.1 MB</li></ul>
+						<div class="mb-3 mt-2.5"><a class="flex items-center underline" href="/datasets/maharshipandya/spotify-tracks-dataset/raw/main/dataset.csv" target="_blank"><svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path d="M25.7 9.3l-7-7A.908.908 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.908.908 0 0 0-.3-.7zM18 4.4l5.6 5.6H18zM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6z" fill="currentColor"></path></svg>
+								Raw pointer file
+							</a></div>
+						<p class="text-sm text-gray-500">Git Large File Storage (LFS) replaces large files with text pointers inside Git, while storing the file
+							contents on a remote server.
+							<a class="underline" href="https://git-lfs.github.com/" target="_blank">More info</a>.
+						</p></div></div></section></div></main>
 
 	</div>
 
